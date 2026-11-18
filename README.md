@@ -1,5 +1,5 @@
 <table>
-  <tr><td><strong>Libin Cao</strong> · AI agents &amp; backend<br><a href="https://www.caolibin.com/">Blog</a> · <a href="https://www.caolibin.com/playground/">Playground</a> · <a href="https://github.com/ribincao/strudel-dreamcore">Music</a></td></tr>
+  <tr><td><strong>Hi, I'm Ribin</strong><br><a href="https://www.caolibin.com/">Blog</a> · <a href="https://www.caolibin.com/playground/">Playground</a> · <a href="https://github.com/ribincao/strudel-dreamcore">Music</a></td></tr>
   <tr><td align="center">
     <a href="https://github.com/ribincao/claude-xp-theme" title="Claude XP Theme"><img width="49%" src="assets/claude-xp-theme.png" alt="Claude XP Theme"></a>
     <a href="https://github.com/ribincao/prompt-gallery" title="Prompt Gallery"><img width="49%" src="assets/prompt-gallery.png" alt="Prompt Gallery"></a>
