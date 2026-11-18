@@ -4,8 +4,8 @@
     <a href="https://github.com/ribincao/claude-xp-theme" title="Claude XP Theme"><img width="49%" src="assets/claude-xp-theme.png" alt="Claude XP Theme"></a>
     <a href="https://github.com/ribincao/prompt-gallery" title="Prompt Gallery"><img width="49%" src="assets/prompt-gallery.png" alt="Prompt Gallery"></a>
     <br>
-    <a href="https://github.com/ribincao/retro-media-player" title="Retro Media Player"><img width="49%" src="assets/retro-media-player.png" alt="Retro Media Player"></a>
-    <a href="https://github.com/ribincao/claude-pet" title="Claude Pet"><img width="49%" src="assets/claude-pet.png" alt="Claude Pet"></a>
+    <img width="49%" src="assets/less-is-more.jpg" alt="less is more">
+    <img width="49%" src="assets/slow-is-fast.jpg" alt="slow is fast">
   </td></tr>
   <tr><td><strong>Languages</strong><br>
     <img src="assets/stack/go.svg" alt="Go">
