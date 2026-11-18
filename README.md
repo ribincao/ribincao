@@ -4,8 +4,7 @@
     <a href="https://github.com/ribincao/claude-xp-theme" title="Claude XP Theme"><img width="49%" src="assets/claude-xp-theme.png" alt="Claude XP Theme"></a>
     <a href="https://github.com/ribincao/prompt-gallery" title="Prompt Gallery"><img width="49%" src="assets/prompt-gallery.png" alt="Prompt Gallery"></a>
     <br>
-    <img width="49%" src="assets/less-is-more.jpg" alt="less is more">
-    <img width="49%" src="assets/slow-is-fast.jpg" alt="slow is fast">
+    <img width="99%" src="assets/slogan-banner.jpg" alt="Less is more, slow is fast">
   </td></tr>
   <tr><td><strong>Language</strong><br>
     <img src="assets/stack/go.svg" alt="Go">
