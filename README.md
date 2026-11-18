@@ -7,26 +7,28 @@
     <img width="49%" src="assets/less-is-more.jpg" alt="less is more">
     <img width="49%" src="assets/slow-is-fast.jpg" alt="slow is fast">
   </td></tr>
-  <tr><td><strong>Languages</strong><br>
+  <tr><td><strong>Language</strong><br>
     <img src="assets/stack/go.svg" alt="Go">
     <img src="assets/stack/python.svg" alt="Python">
-    <img src="assets/stack/rust.svg" alt="Rust">
-    <img src="assets/stack/javascript.svg" alt="JavaScript">
   </td></tr>
-  <tr><td><strong>Desktop &amp; agents</strong><br>
-    <img src="assets/stack/tauri.svg" alt="Tauri">
+  <tr><td><strong>Agents &amp; AI/SI</strong><br>
     <img src="assets/stack/claude-code.svg" alt="Claude Code">
+    <img src="assets/stack/codex.svg" alt="Codex">
+    <img src="assets/stack/muse.svg" alt="Muse">
+    <img src="assets/stack/grok-bot.svg" alt="Grok Bot">
   </td></tr>
-  <tr><td><strong>Backend &amp; data</strong><br>
+  <tr><td><strong>Backend &amp; Data</strong><br>
     <img src="assets/stack/grpc.svg" alt="gRPC">
+    <img src="assets/stack/mysql.svg" alt="MySQL">
     <img src="assets/stack/redis.svg" alt="Redis">
     <img src="assets/stack/mongodb.svg" alt="MongoDB">
     <img src="assets/stack/elasticsearch.svg" alt="Elasticsearch">
   </td></tr>
   <tr><td><strong>Infrastructure</strong><br>
-    <img src="assets/stack/kubernetes.svg" alt="Kubernetes">
     <img src="assets/stack/gke.svg" alt="GKE">
-    <img src="assets/stack/cloudflare.svg" alt="Cloudflare">
     <img src="assets/stack/aws.svg" alt="AWS">
+    <img src="assets/stack/kubernetes.svg" alt="Kubernetes">
+    <img src="assets/stack/cloudflare.svg" alt="Cloudflare">
+    <img src="assets/stack/vercel.svg" alt="Vercel">
   </td></tr>
 </table>
