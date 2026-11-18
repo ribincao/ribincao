@@ -1,38 +1,32 @@
-# Hi, I’m Libin Cao 👋
-
-I build tools and backend systems for AI agents. Before that, I worked on a real-time multiplayer game engine. Outside work, I make Mac apps, small games, and music with code.
-
-[About me](https://www.caolibin.com/about/) · [Play with my browser experiments](https://www.caolibin.com/playground/) · [My Strudel tracks](https://github.com/ribincao/strudel-dreamcore)
-
-### Desktop projects
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ribincao/claude-xp-theme"><img width="100%" src="assets/claude-xp-theme.png" alt="Claude XP Theme preview"></a><br>
-      <strong><a href="https://github.com/ribincao/claude-xp-theme">Claude XP Theme</a></strong><br>
-      An XP-inspired desktop for Claude, with changing skies and a little orange pet.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ribincao/prompt-gallery"><img width="100%" src="assets/prompt-gallery.png" alt="Prompt Gallery preview"></a><br>
-      <strong><a href="https://github.com/ribincao/prompt-gallery">Prompt Gallery</a></strong><br>
-      A Mac app that keeps an image prompt, its source photos, and the results together.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ribincao/retro-media-player"><img width="100%" src="assets/retro-media-player.png" alt="Retro Media Player preview"></a><br>
-      <strong><a href="https://github.com/ribincao/retro-media-player">Retro Media Player</a></strong><br>
-      A Windows Media Player–style app for macOS, complete with visualizers for local music.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ribincao/claude-pet"><img width="100%" src="assets/claude-pet.png" alt="Claude Pet preview"></a><br>
-      <strong><a href="https://github.com/ribincao/claude-pet">Claude Pet</a></strong><br>
-      A cat that paces along the Dock while Claude Code works and sits down when it needs my input.
-    </td>
-  </tr>
+  <tr><td><strong>Libin Cao</strong> · AI agents &amp; backend<br><a href="https://www.caolibin.com/">Blog</a> · <a href="https://www.caolibin.com/playground/">Playground</a> · <a href="https://github.com/ribincao/strudel-dreamcore">Music</a></td></tr>
+  <tr><td align="center">
+    <a href="https://github.com/ribincao/claude-xp-theme" title="Claude XP Theme"><img width="49%" src="assets/claude-xp-theme.png" alt="Claude XP Theme"></a>
+    <a href="https://github.com/ribincao/prompt-gallery" title="Prompt Gallery"><img width="49%" src="assets/prompt-gallery.png" alt="Prompt Gallery"></a>
+    <br>
+    <a href="https://github.com/ribincao/retro-media-player" title="Retro Media Player"><img width="49%" src="assets/retro-media-player.png" alt="Retro Media Player"></a>
+    <a href="https://github.com/ribincao/claude-pet" title="Claude Pet"><img width="49%" src="assets/claude-pet.png" alt="Claude Pet"></a>
+  </td></tr>
+  <tr><td><strong>Languages</strong><br>
+    <img src="assets/stack/go.svg" alt="Go">
+    <img src="assets/stack/python.svg" alt="Python">
+    <img src="assets/stack/rust.svg" alt="Rust">
+    <img src="assets/stack/javascript.svg" alt="JavaScript">
+  </td></tr>
+  <tr><td><strong>Desktop &amp; agents</strong><br>
+    <img src="assets/stack/tauri.svg" alt="Tauri">
+    <img src="assets/stack/claude-code.svg" alt="Claude Code">
+  </td></tr>
+  <tr><td><strong>Backend &amp; data</strong><br>
+    <img src="assets/stack/grpc.svg" alt="gRPC">
+    <img src="assets/stack/redis.svg" alt="Redis">
+    <img src="assets/stack/mongodb.svg" alt="MongoDB">
+    <img src="assets/stack/elasticsearch.svg" alt="Elasticsearch">
+  </td></tr>
+  <tr><td><strong>Infrastructure</strong><br>
+    <img src="assets/stack/kubernetes.svg" alt="Kubernetes">
+    <img src="assets/stack/gke.svg" alt="GKE">
+    <img src="assets/stack/cloudflare.svg" alt="Cloudflare">
+    <img src="assets/stack/aws.svg" alt="AWS">
+  </td></tr>
 </table>
-
-### Writing
-
-[How a short-video feed learns what you like](https://www.caolibin.com/articles/short-video-recommender/) — I follow a new viewer through an open-source recommendation system, from their first swipe to a personalized feed. Written in Chinese.
